@@ -1,4 +1,9 @@
 Arpine Ordyan
+<<<<<<< HEAD
 Ordyan Arpine 
 Arpine Ordyan
+sddgfgf
+=======
+gsgsgdsgf shgjdsgfsgdfsd sjahsuhjdsgfsd
 ArpineOrdyan
+>>>>>>> 1f6483e3c21fe35bab23d8b28855310654abf2d2
